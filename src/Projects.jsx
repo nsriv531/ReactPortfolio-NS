@@ -100,7 +100,7 @@ function Projects() {
       />
 
       <Project
-        title = "Gang Tokyo - Custom Visual Novel Engine"
+        title = "Gossamer"
         description = "Gang Tokyo is a data-driven narrative game engine I built with C# on .NET 8 and MonoGame, as an alternative to Ren'Py or Unity for visual novels and narrative RPGs. The engine separates code from content, so scenes, characters, items, and activities are all authored in JSON. It supports branching dialogue and choices, character relationships and stats, inventory and flag systems, day/night phase scheduling, save/load with dialogue logging, and a condition parser for complex logic expressions."
         tags={["C#", ".NET 8", "MonoGame", "JSON", "Game Engine"]}
         link="https://github.com/nsriv531/gang-tokyo"
